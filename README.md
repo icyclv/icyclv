@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+🔭 A student at Northeastern University(China)
+🌱 Learning Go, Blockchain, and Web3.0.
+![icyclv's github language](https://github-readme-stats.vercel.app/api/top-langs?username=icyclv&show_icons=true&hide_border=true&theme=onedark)
 
 <!--
 **icyclv/icyclv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
