@@ -1,5 +1,5 @@
 ### Hi 👋
-- 🔭 A student at Northeastern University(China)
+- 🔭 Northeastern University(China)
 - 🌱 Learning Go, Blockchain, and Web3.0.
 
 
