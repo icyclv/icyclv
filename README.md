@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 Northeastern University(China)
-- 🌱 Learning Go, Blockchain, and Web3.0.
+- 🌱 Learning Go, Java
 
 
 <!-- ![icyclv's github language](https://github-readme-stats.vercel.app/api/top-langs?username=icyclv&show_icons=true&hide_border=true&theme=onedark) -->
